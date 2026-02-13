@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "New 1"
+echo "New 2"
